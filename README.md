@@ -3,10 +3,11 @@
 Just learning the language and "documenting" how things are done.
 
 ## SOURCES:
-https://docs.scala-lang.org/getting-started/index.html
-https://docs.scala-lang.org/overviews/repl/overview.html
-https://docs.scala-lang.org/tour/tour-of-scala.html
-https://docs.scala-lang.org/overviews/scala-book/introduction.html
+* https://docs.scala-lang.org/getting-started/index.html
+* https://docs.scala-lang.org/overviews/repl/overview.html
+* https://docs.scala-lang.org/tour/tour-of-scala.html
+* https://docs.scala-lang.org/overviews/scala-book/introduction.html
+* https://data-flair.training/blogs/scala-constructor/ - this has plenty of good stuff, though the formatting is inconsistent. MV found it. I can't seem to find any suitable "home page" for the Scala stuff, so this is just linking to a random subpage.
 
 ## Creation
 
