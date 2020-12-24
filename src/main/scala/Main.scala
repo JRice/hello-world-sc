@@ -128,8 +128,8 @@ object Main extends App {
   println(ingredient._1) // Sugar
   println(ingredient._2) // 25
   // You can "take it apart" too:
-  val (name, quantity) = ingredient
-  println(name) // Sugar
+  val (ing_name, quantity) = ingredient
+  println(ing_name) // Sugar
   println(quantity) // 25
   // Perhaps more common in list comprehension:
   val numPairs = List((2, 5), (3, -7), (20, 56))

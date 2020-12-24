@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/jeremyrice/code/hello-world-sc/target/scala-2.13/classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$CustomizableGreeter.class[0m
@@ -32,4 +32,4 @@
 [0m[[0m[0mdebug[0m] [0m[0m	Main$Greeter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$IdFactory$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$ClassyGreeter.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/jeremyrice/code/hello-world-sc/target/scala-2.13/classes.bak[0m
