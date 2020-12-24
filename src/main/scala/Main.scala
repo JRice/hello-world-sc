@@ -23,8 +23,13 @@ object Main extends App {
   println("x outside of that block: " + x) // so the scope included the global
 
   // FUNCTIONS
-  // Anonymous:
-  (x: Int) => x + 1  // NOTE: this causes a WARNING on compile.
+  // Given
+  val salaries = Seq(20000, 70000, 40000)
+  // An anonymous function:
+  var newSalaries = salaries.map(x => x * 2)
+  // but you can make that even more terse:
+  newSalaries = newSalaries.map(_ * 2)
+  println("New Salries (doubled twice):", newSalaries)
   // Named:
   val addOne = (x: Int) => x + 1
   println("addOne(1): " + addOne(1)) // 2
