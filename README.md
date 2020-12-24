@@ -47,6 +47,6 @@ think sbc encourages you to do that, so I won't try.
 
 ## Code
 
-The main code is in `src/main/scala/Maina.scala` ... I guess this is a typical
+The main code is in `src/main/scala/Main.scala` ... I guess this is a typical
 place to put it when you're using a "Metals" project. ...at the time of this
 writing, I am still not really sure what that means. :D
