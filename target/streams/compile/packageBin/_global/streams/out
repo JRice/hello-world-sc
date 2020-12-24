@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$IdFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$IdFactory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Point$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$Point$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$CustomizableGreeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$CustomizableGreeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$DefaultGreeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$DefaultGreeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$ClassyGreeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jeremyrice/code/hello_sc/hello-world/target/scala-2.13/classes/Main$ClassyGreeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
